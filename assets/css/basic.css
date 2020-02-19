@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Neuton&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Permanent+Marker&display=swap');
 /* Type
 -------------------------------------------------- */
 *, :before, :after {
@@ -11,7 +12,7 @@
 html {
     box-sizing: border-box;
     font-size: 16px;
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Ubuntu, Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont,"Montserrat", "Segoe UI", Roboto, "Helvetica Neue", Ubuntu, Arial, sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility; }
@@ -44,7 +45,7 @@ a.link.is-underlined {
     text-decoration: none; }
 
 h1, h2, h3, h4, .h1, .h2, .h3, .h4, .title {
-    font-family: "Neuton", serif;
+    font-family: "Montserrat", serif;
     font-weight: 400;
     color: #000;
     line-height: 1.2;
@@ -723,7 +724,7 @@ section.hero.is-large {
     position: absolute;
     top: 96px;
     left: 0;
-    font-family: "Neuton", serif;
+    font-family: "Montserrat", serif;
     display: none;
     width: 100%;
     z-index: 2;
