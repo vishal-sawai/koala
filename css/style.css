@@ -1,0 +1,90 @@
+body {
+	background-color: #f6f7fb;
+}
+
+/* FONT */
+.sub-h1 {
+	color: #4a608c;
+	font-family: Rubik;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 0.6px;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+.title {
+	color: #202449;
+	font-family: Rubik;
+	font-size: 25px;
+	font-weight: 500;
+	line-height: 32.9px;
+}
+p {
+	color: #333333;
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22.5px;
+}
+.link {
+	color: #333333;
+	font-family: Rubik;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 0.6px;
+	line-height: 18px;
+	text-decoration: none;
+}
+.btn-link {
+	color: #ffffff !important;
+	font-family: Rubik;
+	font-size: 14px !important;
+	text-decoration: none !important;
+	font-weight: 500 !important;
+}
+.subH2 {
+	color: #202449;
+	font-family: Rubik;
+	font-size: 20px;
+	font-weight: medium;
+}
+.disabled {
+	color: #bdbdbd;
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22.5px;
+}
+.informationsTitle {
+	color: #4a608c;
+	font-family: Rubik;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 21.06px;
+}
+.stroke {
+	border: 1px solid #E0E0E0;
+}
+.images {
+	max-width: 400px;
+	height: auto;
+}
+.pricing {
+	background-image: url('../images/background.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.colorwhite {
+	color: white !important;
+}
+.text-md-right {
+	text-align: right !important;
+}
+.bouton-secondary {
+	background-color: #A1A3D4;
+	border-radius: 10px;
+}
+.bouton-primary {
+	background-color: #4A608C;
+	border-radius: 10px;
+}
