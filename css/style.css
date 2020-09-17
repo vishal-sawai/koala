@@ -88,3 +88,12 @@ p {
 	background-color: #4A608C;
 	border-radius: 10px;
 }
+.background-video {
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+	background-color: #4a608c;
+	border-radius: 0.25rem;
+    padding: 1rem;
+    position: relative;
+    display: block;
+    width: 100%;
+}
