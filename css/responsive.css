@@ -1,0 +1,23 @@
+@media only screen and (max-width: 770px) {
+    .navbar-brand-img {
+        height: 60px;
+        margin-right: 10px;
+        padding: 0;
+    }
+    .navbar-nav {
+        display: flex;
+        padding: 0;
+        margin: 0;
+        flex-direction: row;
+    }
+    .nav-item {
+        margin: 0;
+        padding: 0;
+    }
+    .link {
+        font-size: 15px;
+        font-weight: 0;
+        letter-spacing: 0px;
+        line-height: 0px;
+    }
+}
